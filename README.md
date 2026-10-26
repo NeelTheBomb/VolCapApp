@@ -3,6 +3,7 @@
 This project aims to create a headset-based viewer and interaction environment for volumetric captures, enabling users to review, explore, and discuss captured motion in an embodied, spatial way. Rather than focusing on capture or reconstruction, this project centers on human interaction with volumetric data: playback, navigation, annotation, and shared understanding. The aim is to apply it to sports analysis, where it can help uncover movement deficiencies during athletes’ training.
 
 2 Main Features
+
 2.1 Play and Pause
 
 After becoming familiar with the XRI Toolkit in Unity, play and pause controls were created for the imported spatial video using UI buttons on a canvas. I made simple C# script that lets this function be controlled with a single button rather than two separate “play” and “pause” buttons, making it feel more like a real-life media feature.
