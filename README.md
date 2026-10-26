@@ -27,3 +27,5 @@ Created a media server that lets users select from videos and import them into t
 2.6 UI design
 
 Designed the UI for this project, including a theme color, font style, and icons. Then implemented the design in Unity, creating one main panel and two expandable panels for annotation and the media server. In the future, plan to refine the font style and add more functionality to the panels. 
+
+<img width="2046" height="1362" alt="VR-select" src="https://github.com/user-attachments/assets/aab38615-2571-4af4-a9cd-962169129cda" />
