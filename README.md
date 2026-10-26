@@ -1,4 +1,5 @@
 1 Introduction
+
 This project aims to create a headset-based viewer and interaction environment for volumetric captures, enabling users to review, explore, and discuss captured motion in an embodied, spatial way. Rather than focusing on capture or reconstruction, this project centers on human interaction with volumetric data: playback, navigation, annotation, and shared understanding. The aim is to apply it to sports analysis, where it can help uncover movement deficiencies during athletes’ training.
 
 2 Main Features
